@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "watermark": "© 2026 Dr. Atul Tiwari",
+    "author": "Dr. Atul Tiwari",
+    "org": "Vedant Research Labs"
+  },
+  "finalThumbnail": "thumb-k-final",
+  "thumbnails": [
+    {
+      "id": "thumb-a-thermometer",
+      "variant": "thermometer",
+      "temp": "50°C",
+      "headline": "FRIDGES HACKED.",
+      "accent": "HOSPITALS NEXT?",
+      "tag": "AI SECURITY FOR DOCTORS"
+    },
+    {
+      "id": "thumb-b-newspaper",
+      "variant": "newspaper",
+      "masthead": "The Cold Chain Chronicle",
+      "headline": "FRIDGES TURNED INTO OVENS",
+      "stamp": "YOUR HOSPITAL?",
+      "tag": "Real attack · Oct 2026"
+    },
+    {
+      "id": "thumb-c-split",
+      "variant": "split",
+      "leftLabel": "SUPERMARKET",
+      "leftTemp": "80°C",
+      "rightLabel": "BLOOD BANK",
+      "rightTemp": "4°C?",
+      "headline": "SAME OPEN DOOR"
+    },
+    {
+      "id": "thumb-d-agent",
+      "variant": "agent",
+      "headline": "AI WALKED IN.",
+      "accent": "Nobody told it to.",
+      "tag": "OpenAI agent · Medicare portal"
+    },
+    {
+      "id": "thumb-e-question",
+      "variant": "question",
+      "headline": "Who controls your blood bank fridge?",
+      "temp": "50°C",
+      "tag": "AI SECURITY FOR DOCTORS"
+    },
+    {
+      "id": "thumb-f-lessons",
+      "variant": "lessonsRow",
+      "temp": "50°C",
+      "tag": "REAL ATTACK · OCT 2026",
+      "headline": "FRIDGES HACKED.",
+      "accent": "LESSONS FOR HOSPITALS"
+    },
+    {
+      "id": "thumb-g-hospital",
+      "variant": "hospitalLearn",
+      "temp": "50°C",
+      "tag": "AI SECURITY FOR DOCTORS",
+      "headline": "THE 50°C HACK",
+      "accent": "WHAT HOSPITALS CAN LEARN"
+    },
+    {
+      "id": "thumb-h-doctor",
+      "variant": "doctorFridge",
+      "temp": "50°C",
+      "tag": "AI SECURITY FOR DOCTORS",
+      "headline": "THE FRIDGE HACK",
+      "accent": "A LESSON FOR HOSPITAL AI"
+    },
+    {
+      "id": "thumb-i-checklist",
+      "variant": "problemToChecklist",
+      "temp": "50°C",
+      "tag": "FRIDGE HACK → HOSPITAL AI",
+      "headline": "FRIDGES HACKED.",
+      "accent": "7 LESSONS FOR HOSPITALS"
+    },
+    {
+      "id": "thumb-j-decoded",
+      "variant": "decoded",
+      "temp": "50°C",
+      "tag": "EXPLAINED FOR DOCTORS",
+      "headline": "THE FRIDGE HACK,",
+      "accent": "DECODED FOR HOSPITALS"
+    },
+    {
+      "id": "thumb-k-final",
+      "variant": "fridgeToFix",
+      "temp": "50°C",
+      "tag": "AI SECURITY FOR DOCTORS",
+      "headline": "FRIDGES HACKED:",
+      "accent": "7 LESSONS FOR",
+      "accent2": "HEALTHCARE AI"
+    }
+  ]
+}

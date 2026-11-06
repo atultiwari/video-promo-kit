@@ -1,0 +1,127 @@
+{
+  "format": "square",
+  "videoUrl": "https://youtu.be/sEJZZfI0iuo",
+  "videoUrlShort": "youtu.be/sEJZZfI0iuo",
+  "author": "Dr. Atul Tiwari",
+  "org": "Vedant Research Labs",
+  "consultUrl": "book.atultiwari.com/p/dr-atul-tiwari",
+  "copyright": "© 2026 Dr. Atul Tiwari · Vedant Research Labs",
+  "slides": [
+    {
+      "kind": "cover",
+      "tag": "AI SECURITY FOR DOCTORS",
+      "line1": "FRIDGES HACKED:",
+      "line2": "7 LESSONS FOR",
+      "line3": "HEALTHCARE AI",
+      "watch": "▶ Watch the full video"
+    },
+    {
+      "kind": "night",
+      "kicker": "11–12 OCTOBER 2026 · FRANCE",
+      "title": "One night. Hundreds of supermarkets. 50°C.",
+      "points": [
+        "Hackers forced fridges and freezers into a non-stop defrost cycle",
+        "One store reported 80°C. Some equipment melted. Several stores caught fire",
+        "Nobody touched a single fridge"
+      ],
+      "source": "Source: TIME, 13 Oct 2026"
+    },
+    {
+      "kind": "numbers",
+      "title": "The damage",
+      "stats": [
+        {
+          "value": "~180",
+          "label": "Intermarché / Netto stores"
+        },
+        {
+          "value": "≥100",
+          "label": "Coopérative U stores"
+        },
+        {
+          "value": "80",
+          "label": "Carrefour stores"
+        },
+        {
+          "value": "~30",
+          "label": "Monoprix stores"
+        }
+      ],
+      "quote": "“tens of millions of euros nationwide in a single day”",
+      "quoteBy": "Intermarché CEO, to BFM-TV",
+      "source": "Source: TIME, 13 Oct 2026"
+    },
+    {
+      "kind": "pivot",
+      "line1": "This wasn't an AI attack.",
+      "line2": "That's exactly the point.",
+      "body": "Hospitals and labs used to run on closed networks. AI is quietly connecting them to the open internet: cloud AI tools, vendor remote access, models left open “just for testing”."
+    },
+    {
+      "kind": "failures",
+      "title": "5 failures made it possible",
+      "items": [
+        "An open door",
+        "A known fix nobody applied",
+        "A hidden master key",
+        "Everyone used the same lock",
+        "?"
+      ],
+      "teaser": "Failure #5 is the one that should worry doctors most. It's in the video."
+    },
+    {
+      "kind": "mirror",
+      "title": "Your hospital has the same weak spots",
+      "rows": [
+        {
+          "left": "Contractor remote access",
+          "right": "Vendor access to PACS, LIS, AI servers"
+        },
+        {
+          "left": "Firmware never patched",
+          "right": "AI model frozen at deployment"
+        },
+        {
+          "left": "Alarm fooled by a “normal” defrost",
+          "right": "AI gives confident, plausible, wrong answers"
+        }
+      ],
+      "more": "+ 3 more matches in the video"
+    },
+    {
+      "kind": "agent",
+      "kicker": "AUSTRALIA · SEPTEMBER 2026",
+      "title": "Then an AI agent walked in.",
+      "body": "An OpenAI agent doing ordinary research got into Australia's Medicare statistics portal, opened non-public files and wrote files to the server. Nobody asked it to hack anything.",
+      "quote": "“…didn't accept no for an answer.”",
+      "quoteBy": "Australian PM Anthony Albanese",
+      "source": "Source: ABC News, Al Jazeera, 24 Sep 2026"
+    },
+    {
+      "kind": "poison",
+      "value": "0.001%",
+      "title": "of training text poisoned",
+      "body": "…and the medical AI still passed the standard benchmarks while spreading more medical errors.",
+      "punch": "The benchmark is our thermometer. The poisoned model passed it.",
+      "source": "Source: Alber et al., Nature Medicine 2025"
+    },
+    {
+      "kind": "checklist",
+      "title": "The Monday-morning checklist",
+      "items": [
+        "Nothing administrative faces the open internet",
+        "AI reads by default. Any action needs a human click",
+        "Log everything, so you know what to recall"
+      ],
+      "more": "+ 4 more checks in the video"
+    },
+    {
+      "kind": "cta",
+      "title": "Watch the full video (11 min)",
+      "sub": "The full story, all 5 failures, the hospital mirror and the 7-point checklist",
+      "scan": "SCAN TO WATCH",
+      "consult": "1:1 consultation",
+      "save": "Save · Share with a colleague who runs AI in their department"
+    }
+  ]
+}

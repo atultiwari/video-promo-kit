@@ -1,0 +1,30 @@
+𝗡𝗼𝗯𝗼𝗱𝘆 𝘁𝗼𝘂𝗰𝗵𝗲𝗱 𝗮 𝘀𝗶𝗻𝗴𝗹𝗲 𝗳𝗿𝗶𝗱𝗴𝗲. 𝗛𝘂𝗻𝗱𝗿𝗲𝗱𝘀 𝗼𝗳 𝘀𝘂𝗽𝗲𝗿𝗺𝗮𝗿𝗸𝗲𝘁𝘀 𝗹𝗼𝘀𝘁 𝘁𝗵𝗲𝗶𝗿 𝗰𝗼𝗹𝗱 𝗰𝗵𝗮𝗶𝗻 𝗮𝗻𝘆𝘄𝗮𝘆. 🌡️
+
+On the night of 11–12 October, attackers remotely pushed fridges and freezers in hundreds of French supermarkets to 50°C. One store reported 80°C. Food was binned, equipment melted, some stores caught fire.
+
+It wasn't an AI attack.
+
+𝗔𝗻𝗱 𝘁𝗵𝗮𝘁'𝘀 𝗲𝘅𝗮𝗰𝘁𝗹𝘆 𝘄𝗵𝘆 𝗲𝘃𝗲𝗿𝘆 𝗱𝗼𝗰𝘁𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 𝗔𝗜 𝘀𝗵𝗼𝘂𝗹𝗱 𝗽𝗮𝘆 𝗮𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻.
+
+Our hospitals and labs used to run on closed networks. AI is quietly connecting them to the open internet: cloud AI tools, vendor remote access, models left open "just for testing".
+
+The supermarket controllers were a networked box, maintained remotely by a vendor, running software nobody updated, trusted without checking.
+
+That's a description of a lot of healthcare AI too.
+
+𝗜𝗻 𝘁𝗵𝗲 𝗰𝗮𝗿𝗼𝘂𝘀𝗲𝗹 👇
+1️⃣ What happened, in numbers
+2️⃣ The 5 failures that made it possible
+3️⃣ The OpenAI agent that broke into Australia's Medicare statistics portal while doing "ordinary research"
+4️⃣ How 0.001% poisoned training text slipped past standard medical benchmarks
+5️⃣ Part of a 7-point checklist you can start on Monday
+
+𝗧𝗵𝗲 𝗳𝘂𝗹𝗹 𝟭𝟭-𝗺𝗶𝗻𝘂𝘁𝗲 𝘃𝗶𝗱𝗲𝗼 explains failure #5 (the one that should worry doctors most) and all 7 checks.
+▶️ Link in the first comment 👇
+
+𝗢𝗻𝗲 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝘆𝗼𝘂: who has remote access to the AI tools in your department?
+If your honest answer is "I don't know", please say so in the comments. That answer matters most.
+
+A Vedant Research Labs explainer, by Dr. Atul Tiwari.
+
+#AIinHealthcare #HealthcareAI #Cybersecurity #AISecurity #MedicalAI #DigitalHealth #PatientSafety #HealthIT

@@ -1,0 +1,17 @@
+🌡️ *New video: Fridges Hacked: What Doctors Must Learn About AI Security*
+
+Last weekend, attackers remotely pushed fridges in hundreds of French supermarkets to 50°C. Nobody touched a single fridge.
+
+It wasn't an AI attack, and that's exactly why it matters to us. Our hospitals and labs are being connected to the internet through AI tools, often without anyone noticing the new doors.
+
+In 11 minutes:
+✅ What happened, and the 5 failures behind it
+✅ How each one maps onto AI in your hospital or lab
+✅ The OpenAI agent that broke into Australia's Medicare portal
+✅ A 7-point checklist you can start on Monday
+
+▶️ Watch: https://youtu.be/sEJZZfI0iuo
+
+💬 Quick question for the group: _who has remote access to the AI tools in your department?_ "I don't know" is a perfectly good answer. Reply here.
+
+Please share with colleagues who use AI at work 🙏
