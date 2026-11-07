@@ -1,0 +1,51 @@
+{
+  "brand": {
+    "watermark": "© 2026 Dr. Atul Tiwari",
+    "author": "Dr. Atul Tiwari",
+    "org": "Vedant Research Labs"
+  },
+  "finalThumbnail": "e01-b-circles",
+  "thumbnails": [
+    {
+      "id": "e01-a-which",
+      "variant": "twoVerdicts",
+      "tag": "AI IN MEDICINE · EPISODE 1",
+      "headline": "WHICH ONE IS AI?"
+    },
+    {
+      "id": "e01-b-circles",
+      "variant": "headlineDiagram",
+      "tag": "FOR DOCTORS · NO CODING",
+      "headline": "WHAT IS",
+      "accent": "AI, REALLY?"
+    },
+    {
+      "id": "e01-c-doctor",
+      "variant": "doctorHeadline",
+      "tag": "EPISODE 1 · NO CODING",
+      "headline": "AI,",
+      "accent": "DECODED FOR DOCTORS",
+      "sub": "Rules · Machine learning · Deep learning"
+    },
+    {
+      "id": "e01-d-ecg",
+      "variant": "objectQuestion",
+      "tag": "AI IN MEDICINE · EP 1",
+      "headline": "IS YOUR ECG",
+      "accent": "AI?"
+    },
+    {
+      "id": "e01-e-xray",
+      "variant": "objectChips",
+      "tag": "WHAT IS AI, REALLY?",
+      "headline": "1 X-RAY, 3 WAYS"
+    },
+    {
+      "id": "e01-f-rules",
+      "variant": "questionChoices",
+      "tag": "BEFORE YOU TRUST AI",
+      "headline": "WHO WROTE",
+      "accent": "THE RULES?"
+    }
+  ]
+}

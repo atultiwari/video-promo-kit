@@ -55,3 +55,26 @@ Illustrations (`src/thumbnails/illustrations.tsx`), all flat neon-on-navy SVGs s
 - **Complement the title, don't repeat it.** Thumbnail: "Fridges hacked: 7 lessons for
   Healthcare AI". Title: "Fridges Hacked: What Doctors Must Learn About AI Security".
 - 1280×720 PNG, under YouTube's 2 MB limit (final: 1.0 MB). Watermark bottom-right.
+
+## Teaching variants (`TeachingVariants.tsx`, from "What is AI, really?", Nov 2026)
+
+For explainers rather than incidents. Illustrations in `teaching-illustrations.tsx`:
+`OximeterFinger` (side-view finger with nail and creases, clip, display), `EcgPrintout`,
+`ChestFilm`, `NestedCircles` (AI ⊃ ML ⊃ DL). Add new teaching objects there, drawn so they read at
+phone size: a primitive shape for anatomy was called out by the owner.
+
+| Variant | Fields | Layout |
+|---|---|---|
+| `headlineDiagram` (**owner's pick for E01**) | tag, headline, accent | two-line headline (accent largest, green) beside a big diagram (nested circles) |
+| `twoVerdicts` | tag, headline, left, right | two objects (oximeter, ECG) with a verdict pill under each |
+| `doctorHeadline` | tag, headline, accent, sub | huge one-word headline, the doctor on the right |
+| `objectQuestion` | tag, headline, accent | headline + question beside a tilted ECG printout |
+| `objectChips` | tag, headline, chips (`A|B|C`) | chest film + three coloured chips |
+| `questionChoices` | tag, headline, accent, left, right | the series question with two answer pills, doctor |
+
+Worked example: `examples/ai-medicine-e01/` (promo.json, the six options, the final, description).
+
+**Owner preference learned on E01:** a big plain question as the headline next to one clear
+diagram beat the clever split-verdict layout. Recommend that shape first for concept episodes,
+and still let the owner choose. The thumbnail can be changed after upload
+(`youtube-uploader/scripts/yt-update.mjs --thumbnail`).

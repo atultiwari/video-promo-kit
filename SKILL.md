@@ -37,8 +37,9 @@ cd <video-project>/promo && npm run dev     # Studio: Thumbnails/ and Carousel/ 
    See references/thumbnails.md.
 2. **YouTube text:** title options (owner picks), description with real chapters, sources,
    links, notes; 15 tags. See references/copy.md.
-3. **Upload and schedule:** YouTube Studio through the Chrome extension; the owner drags the
-   video in. Read every field back. See references/publishing.md.
+3. **Upload and schedule:** the `youtube-uploader` skill (API; dry run, then upload on the owner's
+   explicit yes). Studio through the Chrome extension is the fallback; read every field back.
+   See references/publishing.md.
 4. **Carousel:** 10 teaser slides (`src/data/carousel.json`, `"format": "square"`) →
    `npm run carousel` → PNGs (Instagram) + PDF (LinkedIn). See references/carousel.md.
 5. **Social copy:** LinkedIn post + first comment, Instagram caption, WhatsApp message. See
@@ -50,10 +51,11 @@ cd <video-project>/promo && npm run dev     # Studio: Thumbnails/ and Carousel/ 
 
 | Path | What |
 |---|---|
-| `template/` | Remotion promo project: `thumbnails/` (11 variants A–K), `illustrations.tsx`, `carousel/` (10 slide kinds, square/portrait), `components/` (Backdrop moods, Icon, QrCode, Watermark, PaperTexture), `public/brand/` (VRL seal: white for dark, blue for light) |
+| `template/` | Remotion promo project: `thumbnails/` (11 incident variants A–K, 6 teaching variants), `illustrations.tsx`, `teaching-illustrations.tsx`, `carousel/` (10 slide kinds, square/portrait), `components/` (Backdrop moods, Icon, QrCode, Watermark, PaperTexture), `public/brand/` (VRL seal: white for dark, blue for light) |
 | `template/scripts/` | `render-thumbnails.mjs`, `render-carousel.mjs`, `carousel-pdf.py`, `phone-check.py`, `li_format.py` |
 | `references/` | thumbnails, carousel, copy, publishing |
 | `examples/fridge-hack/` | Final thumbnail, all 11 thumbnail options, 1:1 and 4:5 carousel sheets, metadata, description, LinkedIn post + first comment, Instagram caption, WhatsApp message |
+| `examples/ai-medicine-e01/` | A concept explainer: six teaching thumbnails (owner picked `headlineDiagram`), the final, promo.json, description with sources |
 
 ## Owner preferences (Dr. Atul Tiwari, Medical AI Simplified)
 
@@ -63,5 +65,7 @@ cd <video-project>/promo && npm run dev     # Studio: Thumbnails/ and Carousel/ 
   on promo material.
 - Instagram carousel images 1:1. Links: video `youtu.be/…`, consultation
   `https://book.atultiwari.com/p/dr-atul-tiwari`, WhatsApp group
-  `https://chat.whatsapp.com/ET6jeZwee88KhKC4PICuiK?mode=gi_t`.
+  `https://chat.whatsapp.com/ET6jeZwee88KhKC4PICuiK?mode=gi_t`, workshops (academy)
+  `https://academy.vedantresearchlabs.com/`.
+- Thumbnails for concept explainers: a big plain question beside one clear diagram (E01's pick).
 - Ask when in doubt. Never publish, post, or change an account without explicit approval.

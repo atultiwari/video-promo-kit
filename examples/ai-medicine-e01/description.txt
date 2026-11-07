@@ -1,0 +1,46 @@
+Your pulse oximeter isn't AI. The text printed on your ECG might be.
+Here's how to tell the difference, and the one question to ask before you trust any medical AI tool.
+
+Episode 1 of "AI in Medicine — Decoded for Doctors": AI literacy for MBBS and PG students and clinicians, with no maths and no coding. One chest X-ray, read three ways: by rules written by experts, by machine learning, and by deep learning. Then we go back to the ECG, walk from MYCIN to ChatGPT, and finish with three questions for any AI tool that reaches your ward.
+
+⏱️ CHAPTERS
+0:00 Two machines on your ward
+1:04 Where the word comes from
+1:52 Rules, written by experts
+3:09 Learning from examples
+4:26 Deep learning, which finds its own features
+5:36 Back to the ECG
+6:39 From MYCIN to chatbots
+7:17 The human in the loop
+7:45 Three questions for any tool
+8:12 What comes next
+
+✅ THREE QUESTIONS FOR ANY AI TOOL
+1. Who wrote its rules: experts, or the data?
+2. If it learned, from which data: which hospitals, machines, patients?
+3. Who checks it, and is that person you?
+
+🧑‍⚕️ Hands-on online workshops on AI for doctors: https://academy.vedantresearchlabs.com/
+💬 WhatsApp group: https://chat.whatsapp.com/ET6jeZwee88KhKC4PICuiK?mode=gi_t
+
+❓ Which AI tool have you already met at work, and which of the three boxes does it go in?
+
+📚 SOURCES
+• McCarthy J, Minsky M, Rochester N, Shannon C. A proposal for the Dartmouth Summer Research Project on Artificial Intelligence. 31 Aug 1955. https://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html
+• Samuel AL. Some studies in machine learning using the game of checkers. IBM J Res Dev 1959;3(3):210–229. doi:10.1147/rd.33.0210
+• Yu VL, et al. Antimicrobial selection by a computer: a blinded evaluation by infectious diseases experts. JAMA 1979;242(12):1279–1282.
+• Buchanan BG, Shortliffe EH (eds). Rule-Based Expert Systems: The MYCIN Experiments. 1984. Ch. 31: https://people.dbmi.columbia.edu/shortliffe/Buchanan-Shortliffe-1984/Chapter-31.pdf
+• Kligfield P, et al. Recommendations for the standardization and interpretation of the electrocardiogram, part I. Circulation 2007;115:1306–1324.
+• US FDA 510(k) K232699, Low Ejection Fraction AI-ECG Algorithm (Anumana), cleared 28 Sep 2023. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K232699
+• Krizhevsky A, Sutskever I, Hinton GE. ImageNet classification with deep convolutional neural networks. NeurIPS 2012.
+• Rajpurkar P, et al. CheXNet. arXiv:1711.05225 (2017).
+• Vaswani A, et al. Attention is all you need. arXiv:1706.03762 (2017).
+• OpenAI. Introducing ChatGPT. 30 Nov 2022. https://openai.com/index/chatgpt/
+• American Medical Association. Augmented intelligence in medicine (policy H-480.940, 2018). https://www.ama-assn.org/practice-management/digital/augmented-intelligence-medicine
+
+ℹ️ NOTES
+Facts as of 7 November 2026. The chest X-ray walk-through is a simplified, made-up example; drawings are schematics, not real images. Not medical, legal or regulatory advice. Narration uses an AI-generated clone of my own voice.
+
+© 2026 Dr. Atul Tiwari · Vedant Research Labs
+
+#MedicalAI #AIinMedicine #MedicalEducation

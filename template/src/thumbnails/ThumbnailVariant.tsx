@@ -6,6 +6,7 @@ import { Watermark } from "../components/Watermark";
 import promo from "../data/promo.json";
 import { COLORS, FONTS } from "../theme";
 import { LESSON_VARIANTS } from "./LessonVariants";
+import { TEACHING_VARIANTS } from "./TeachingVariants";
 
 type T = Record<string, string>;
 type Props = { thumbId: string };
@@ -400,6 +401,7 @@ const VARIANTS: Record<string, React.FC<{ t: T }>> = {
   agent: Agent,
   question: Question,
   ...LESSON_VARIANTS,
+  ...TEACHING_VARIANTS,
 };
 
 /** One YouTube thumbnail option (1280×720), chosen by id from src/data/promo.json. */

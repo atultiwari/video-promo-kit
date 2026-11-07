@@ -1,5 +1,12 @@
 # Publishing and profiles (Claude in Chrome)
 
+> **Uploading now goes through the `youtube-uploader` skill** (YouTube Data API: dry run, then an
+> upload on the owner's explicit yes; thumbnail, captions, playlist, scheduling). API uploads
+> from unverified projects are no longer locked to private (Google's videos.insert page,
+> checked 2026-11-07). The Studio recipe below is the fallback, and still the way to set fields
+> the API does not cover. After any API change, have the owner reload an open Studio tab: its
+> unsaved edits overwrite API changes on Save.
+
 Load the Chrome tools in one ToolSearch call (`tabs_context_mcp, navigate, computer, find,
 read_page, javascript_tool, file_upload, tabs_create_mcp, tabs_close_mcp`). Work in a new tab
 and close it when done.
